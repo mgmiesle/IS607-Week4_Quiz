@@ -121,7 +121,7 @@ func2 <- function()
 
 #### Prob 3 ####
 # 3. Is there a relationship between length of movie and movie rating?
-func3 <- function(x, y)
+func3 <- function()
 {
 #     movie rating is being interpreted as the IMDb user rating
 #     and not meaning the MPAA rating
@@ -192,7 +192,7 @@ func4 <- function()
 
 #### Prob 5 ####
 # 5. Which other variable best predicts total number of votes that a movie received.
-func5 <- function(x, y)
+func5 <- function()
 {
 #     started with a pairs plot to get a general idea of relationships
 #     but it doesn't seem necessary to plot this for you
